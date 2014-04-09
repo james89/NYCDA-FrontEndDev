@@ -1,2 +1,15 @@
 section {
-  height: 200px; }
+  height: 1000px;
+  width: 100%; }
+
+#one {
+  position: relative;
+  top: 80%;
+  display: block;
+  margin: 0 auto; }
+
+#two {
+  position: relative;
+  top: 80%;
+  display: block;
+  margin: 0 100px; }
